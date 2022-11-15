@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /some-path/
+
+
+
+Sitemap: https://furniture-ideas.github.io/tiny-house/sitemap.xml
+Sitemap: https://furniture-ideas.github.io/tiny-house/hasil.xml

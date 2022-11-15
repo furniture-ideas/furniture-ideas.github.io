@@ -1,0 +1,3 @@
+User-agent: *
+Sitemap: https://furniture-ideas.github.io/sitemap.xml
+Sitemap: https://furniture-ideas.github.io/hasil.xml
